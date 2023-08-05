@@ -50,7 +50,7 @@ const API_URL = `https://pro.openweathermap.org/data/2.5/weather?q=${searchInput
 
   return (
     <div className="container mt-5">
-      <h1>Weather App</h1>
+      <h1>Weather Search Then Show Card</h1>
 
 
       <div className="input-group mb-3">
