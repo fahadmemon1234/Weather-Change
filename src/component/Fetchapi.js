@@ -68,6 +68,10 @@ const API_URL = `https://pro.openweathermap.org/data/2.5/weather?q=${searchInput
         </button>
       </div>
 
+
+      <br/>
+      <br/>
+
       
       {weatherData && (
         <WeatherCard
